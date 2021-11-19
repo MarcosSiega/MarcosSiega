@@ -12,5 +12,10 @@
 
 #### Connect with me:
 
-[<img align="center" alt="MarcosSiega | LinkedIn" src="https://img.shields.io/badge/Instagram-MarcosSiega-blue?style=flat-square&logo=Instagram" />][linkedin]
-[<img align="center" alt="MarcosSiega | Email" src="https://img.shields.io/badge/Email-marcosmsiega@gmail.com-blue?style=flat-square&logo=gmail" />][email]
+[<img align="center" alt="MarcosSiega | Email" src="https://img.shields.io/badge/Email-marcosmsiega@gmail.com-blue?style=flat-square&logo=gmail" />][email] <br/>
+[<img align="center" alt="MarcosSiega | Linkedin" src="https://img.shields.io/badge/Linkedin-Marcos%20Siega%20-blue?style=flat-square&logo=linkedin" />][linkedin] <br/>
+[<img align="center" alt="MarcosSiega | Instagram" src="https://img.shields.io/badge/Instagram-Marcos%20Siega-blue?style=flat-square&logo=Instagram" />][instagram]
+
+[email]: mailto:marcosmsiega@gmail.com
+[linkedin]: https://www.linkedin.com/in/marcos-de-melo-siega-51a16762
+[instagram]: https://www.instagram.com/marcossiega/
