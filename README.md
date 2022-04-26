@@ -7,7 +7,7 @@
 - 🏢 I'm currently working at **Ecocentauro Sistemas**
 - 🌱 Learning all about **Java**, **.NET**, **TypeScript**
 - 💬 Ping me about  **Java**, **TypeScript**, **.NET**, **Node.js**, **PostgreSQL**, **RoR** 
-- ⚡️ Fun fact: I'm a huge cycling fan
+- ⚡️ Fun fact: I'm a Huge Fan of Cycling 🚴‍🚴‍🚴‍♂️
 
 #### Connect with me:
 
