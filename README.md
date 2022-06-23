@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Ecocentauro Sistemas**
+- 🏢 I'm currently working at **TOTVS**
 - 🌱 Learning all about **Java**, **.NET**, **TypeScript**
 - 💬 Ping me about  **Java**, **TypeScript**, **.NET**, **Node.js**, **PostgreSQL**, **RoR** 
 - ⚡️ Fun fact: I'm a Huge Fan of Cycling 🚴‍🚴‍🚴‍♂️
